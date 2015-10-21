@@ -1,12 +1,5 @@
 #include "LedControl.h"  // puede controlar MAX72XX
 
-/*
- Conectamos 
- pin 7 a DataIn 
- pin 6 a CLK 
- pin 5 a LOAD 
- We have only a single MAX72XX.
- */
 #define pinDataIn 7
 #define pinCLK 6
 #define pinLoad 5
